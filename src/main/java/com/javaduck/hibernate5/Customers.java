@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package com.javaduck.hibernate5;
-//again another message
+//again another message 2
 import java.io.Serializable;
 import java.util.List;
 import javax.persistence.Basic;
